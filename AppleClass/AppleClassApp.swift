@@ -7,6 +7,7 @@
 
 import SwiftUI
 
+//punto de entrada de la aplicación
 @main
 struct AppleClassApp: App {
     var body: some Scene {
